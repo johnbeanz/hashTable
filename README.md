@@ -1,1 +1,2 @@
-# hashTable
+# Hash Table
+Simple hash table using chaining. This program generates 1000 numbers randomly and assigns them to a spot in a hash table, in the range 10-99. This hash table has 10 buckets in which these numbers can be placed (0-9). The program will then check to see if that number has already been placed in the hash table and if it has, then it will delete it. Thus deleting all duplicates. Once in the hash table, the program is supposed to group them by first digit, I could not figure out how to do this so mine does not, it groups by last digit instead. It will ask a user which column the user would like to be printed. After the user inputs this, that column and only that one will be printed for the user to view.
